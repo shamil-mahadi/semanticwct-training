@@ -1,0 +1,10 @@
+__pycache__/
+*.py[oc]
+.venv
+# stuff the training scripts spit out
+checkpoints/
+saved_decoder/
+rechunked_tensors/
+chunks/
+tensor_dataset/
+*.npy
